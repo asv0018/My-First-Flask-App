@@ -52,7 +52,7 @@ auth0 = oauth.register(
     'auth0',
     redirect="GG",
     client_id='EiQUVvi2sUFVHxmUfFVmTsq2CJj6I9VR',
-    client_secret='eFKgAM50K89r6BiN3cvzEm3-UAh5WDPnbXj3AFTqHQ_s1idiPKzLzHaQD2E1XRMY',
+    client_secret='CONTACT THE OWNER',
     api_base_url='https://dev-jb-2phci.us.auth0.com',
     access_token_url='https://dev-jb-2phci.us.auth0.com/oauth/token',
     authorize_url='https://dev-jb-2phci.us.auth0.com/authorize',
